@@ -33,7 +33,7 @@ traffic-crash-analysis/ ├── data/ │ ├── crashes.csv │ ├── 
 - **HTML, CSS, JavaScript**: For building the local website to present visualizations.
 - **PowerPoint**: For presenting project insights.
 - **Python (optional)**: For any data processing and analysis
-.- **Tableau and Quicksight (optional)**: For data visualization.
+- **Tableau and Quicksight (optional)**: For data visualization.
 
 
 ## Presentation
