@@ -32,16 +32,9 @@ traffic-crash-analysis/ ├── data/ │ ├── crashes.csv │ ├── 
 ## Technologies Used
 - **HTML, CSS, JavaScript**: For building the local website to present visualizations.
 - **PowerPoint**: For presenting project insights.
-- **Python (optional)**: For any data processing and analysis.
+- **Python (optional)**: For any data processing and analysis
+.- **Tableau and Quicksight (optional)**: For data visualization.
 
-## Setup and Installation
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/traffic-crash-analysis.git
-    ```
-2. **Load Data**: Ensure the `crashes.csv`, `people.csv`, and `vehicles.csv` files are available in the `data/` directory.
-3. **View the Website**:
-   - Open the `website/index.html` file in a web browser to view the analysis and visualizations locally.
 
 ## Presentation
 The PowerPoint presentation (`Traffic_Crash_Analysis_Presentation.pptx`) provides an overview of the project’s methodology, findings, and conclusions, making it ideal for stakeholder presentations and reviews.
